@@ -99,7 +99,7 @@ a{ color: inherit; text-decoration: none; }
   display: grid;
   place-items: center;
   overflow: hidden;
-  background-image: url("https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fmojodesign.io%2Fwebsite-development-navigating-the-digital-landscape%2F&ved=0CBYQjRxqFwoTCPjGv_7QwpIDFQAAAAAdAAAAABAI&opi=89978449");
+  background-image: url("./assets/website_bg.jpg");
   background-size: cover;
   background-position: center;
 }
