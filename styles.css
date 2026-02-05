@@ -95,7 +95,7 @@ a{ color: inherit; text-decoration: none; }
 /* Hero */
 .hero {
   min-height: calc(100vh - 70px);
-  background-image: url("./assets/website_bg.jpeg");
+  background-image: url("./assets/website_bg.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
